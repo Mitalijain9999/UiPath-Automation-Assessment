@@ -1,0 +1,14 @@
+﻿{
+  "Name": "£50.10",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "z-smmElJIEa_keeeAXz2_Q",
+  "Reference": "kGkdLwUTpkaFzM3Mhq6hVA/z-smmElJIEa_keeeAXz2_Q",
+  "ParentRef": "kGkdLwUTpkaFzM3Mhq6hVA/TvCQjE1QVU6e9Jg9UucZag",
+  "Created": "2026-09-23T07:21:58.8508938Z",
+  "Updated": "2026-09-23T07:21:58.8508938Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

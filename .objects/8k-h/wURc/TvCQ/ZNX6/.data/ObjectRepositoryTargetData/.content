@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="34uGxMYXXEqOfTvVmXGFmg" Reference="kGkdLwUTpkaFzM3Mhq6hVA/ZNX6td3USESF_921S6hdog" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="books.toscrape.com" DesignTimeRectangle="1589, 593, 214, 23" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='{{str_bookName}}' matching:aaname='fuzzy' fuzzylevel:aaname='0.81' tag='A' /&gt;" Guid="eaa3d8a9-0d1a-408a-9634-0e858210bd16" ScopeSelectorArgument="&lt;html app='chrome.exe' title='All products | Books to Scrape - Sandbox' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a70705739394b6a6d9ef6dad1c55a3a3.jpg" xmlns="">0a-hfuM-zu0aYyAYTmPNamA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "It's Only the Himalayas",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "ZNX6td3USESF_921S6hdog",
+  "Reference": "kGkdLwUTpkaFzM3Mhq6hVA/ZNX6td3USESF_921S6hdog",
+  "ParentRef": "kGkdLwUTpkaFzM3Mhq6hVA/TvCQjE1QVU6e9Jg9UucZag",
+  "Created": "2026-09-23T08:01:35.2633309Z",
+  "Updated": "2026-09-23T08:01:35.2633309Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
